@@ -1,6 +1,3 @@
-### Hi there 👋
-- Fift year robotics & software engineering student
-- Tampere, Finland
 
 ### Frameworks & platfroms that I have used:
 
