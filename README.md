@@ -1,5 +1,5 @@
 
-### Frameworks & platfroms that I have used:
+### Some of the frameworks & platfroms that I have used:
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
