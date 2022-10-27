@@ -15,4 +15,4 @@
 
 
 - 🔭 I’m currently working on creating my own Telegram bot
-- 🌱 Currently learning React, Redux, MongoDB and GraphQL!
+- 🌱 Currently learning more about full stack web development (React, Redux, MongoDB and GraphQL)
