@@ -14,3 +14,5 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 - 🌱 Currently learning more about full stack web development (React, Redux, MongoDB and GraphQL)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/vainopollari/github-readme-stats)
