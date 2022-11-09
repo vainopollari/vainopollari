@@ -15,4 +15,4 @@
 
 - 🌱 Currently learning more about full stack web development (React, Redux, MongoDB and GraphQL)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/vainopollari/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vainopollari&layout=compact)](https://github.com/vainopollari/github-readme-stats)
